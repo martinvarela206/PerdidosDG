@@ -1,0 +1,27 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ipd{
+  background-color: rgb(153, 242, 212);
+}
+
+.dama{
+  background-color: rgb(182, 134, 227);
+}
+
+.morfo{
+  background-color: rgb(233, 148, 148);
+}
+
+.mate{
+  background-color: rgb(193, 236, 150);
+}
+
+.materia legend{
+  font-weight: bold;
+}
+
+.materia>legend{
+  font-size: 22px;
+}

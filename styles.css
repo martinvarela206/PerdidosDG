@@ -1,21 +1,23 @@
 body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #333;
+  color: #CCC;
 }
 
 .ipd{
-  background-color: rgb(153, 242, 212);
+  background-color: rgb(41, 58, 20);
 }
 
 .dama{
-  background-color: rgb(182, 134, 227);
+  background-color: rgb(36, 25, 47);
 }
 
 .morfo{
-  background-color: rgb(233, 148, 148);
+  background-color: rgb(59, 35, 35);
 }
 
 .mate{
-  background-color: rgb(193, 236, 150);
+  background-color: rgb(52, 66, 38);
 }
 
 .materia legend{
@@ -24,4 +26,12 @@ body{
 
 .materia>legend{
   font-size: 22px;
+}
+
+a, a:visited{
+  color: #CCC;
+}
+
+a:hover{
+  color: #86f860;
 }
